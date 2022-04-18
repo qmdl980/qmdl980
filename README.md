@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Oh Hyuk Jin&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=OhHyukJin&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 <br>
 
