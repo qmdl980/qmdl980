@@ -1,17 +1,13 @@
-## Hi there 👋 I'm Oh Hyuk Jin, hope that be the best Front End Engineer [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qmdl98056@gmail.com)](mailto:qmdl98056@gmail.com)
+<div align = "center">
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmdl980&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
+  ### Hi there 👋 I'm Oh Hyuk Jin, hope that be the best Front End Engineer 
+
+  ---
 
 
-
-
-
-### 🌱 Currently studying
-#### I'm building a blog for myself with these skills at
-<a href="https://github.com/qmdl980/MyBlog_FE">
-    <img src="https://img.shields.io/badge/MyBlog_FE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
-  <a href="https://github.com/qmdl980/MyBlog_BE">
-    <img src="https://img.shields.io/badge/MyBlog_BE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
+### Once I've Used
 <div>
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -32,6 +28,12 @@
   </a>
 </div>
 
-
-
+### I'm building a blog for myself with these skills at
+<a href="https://github.com/qmdl980/MyBlog_FE">
+    <img src="https://img.shields.io/badge/MyBlog_FE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>
+  <a href="https://github.com/qmdl980/MyBlog_BE">
+    <img src="https://img.shields.io/badge/MyBlog_BE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>                                                                             
+</div>
 
