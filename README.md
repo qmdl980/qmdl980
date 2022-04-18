@@ -45,16 +45,6 @@
 ![HyukJin's github stats](https://github-readme-stats.vercel.app/api?username=qmdl980&show_icons=true&theme=dracula)
 
   
-  <a href="https://github.com/qmdl980">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqmdl980&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/>
-  </a>
-  
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=slide97)](https://solved.ac/slide97)
-  
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmdl980&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-  
 
 <p align="center">
     
