@@ -1,10 +1,10 @@
 <div align = "center">
   
-  ### Oh Hyuk Jin, hope that be the best Front End Engineer
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=qmdl980&show_icons=true&theme=dracula"/>
+  
+  ### Oh Hyuk Jin
 
   ---
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=qmdl980&show_icons=true&theme=dracula"/>
   
   
 </div>
@@ -12,6 +12,7 @@
 ---
 
 <div>
+  
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmdl980&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   
