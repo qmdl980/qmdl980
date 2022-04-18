@@ -5,7 +5,8 @@
 
 
 ### 🌱 Currently studying
-#### I'm building a blog for myself with these skills at --> <a href="https://github.com/qmdl980/MyBlog_FE">
+#### I'm building a blog for myself with these skills at
+<a href="https://github.com/qmdl980/MyBlog_FE">
     <img src="https://img.shields.io/badge/MyBlog_FE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
   <a href="https://github.com/qmdl980/MyBlog_BE">
