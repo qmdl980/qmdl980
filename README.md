@@ -9,6 +9,8 @@
   
 </div>
 
+---
+
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmdl980&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
