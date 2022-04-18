@@ -3,7 +3,8 @@
   ### Oh Hyuk Jin, hope that be the best Front End Engineer
 
   ---
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qmdl980&show_icons=true&theme=dracula)](https://github.com/qmdl980/github-readme-stats)
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=qmdl980&show_icons=true&theme=dracula"/>
   
   
 </div>
