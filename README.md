@@ -56,15 +56,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmdl980&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
 
-  <p align="center">
+<p align="center">
     
-    ### I'm building a blog for myself
+  ### I'm building a blog for myself !
   
-    <a href="https://github.com/qmdl980/MyBlog_FE">
-      <img src="https://img.shields.io/badge/MyBlog_FE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-    </a>
-    <a href="https://github.com/qmdl980/MyBlog_BE">
-      <img src="https://img.shields.io/badge/MyBlog_BE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-    </a> 
-  </p>
+  <a href="https://github.com/qmdl980/MyBlog_FE">
+    <img src="https://img.shields.io/badge/MyBlog_FE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>
+  <a href="https://github.com/qmdl980/MyBlog_BE">
+    <img src="https://img.shields.io/badge/MyBlog_BE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a> 
+</p>
 
