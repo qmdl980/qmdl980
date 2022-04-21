@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38)
-
 <div align="center">
 
   ## Hi I'm Oh Hyuk Jin, hope to be the best Front End Engineer
