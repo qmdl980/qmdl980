@@ -51,7 +51,7 @@
   <a href="https://github.com/qmdl980/MyBlog_FE">
     <img src="https://img.shields.io/badge/MyBlog_FE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
-  <a href="https://github.com/qmdl980/MyBlog_BE">
+  <a href="https://github.com/qmdl980/MyBlog_BE_Nodejs">
     <img src="https://img.shields.io/badge/MyBlog_BE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a> 
 </p>
