@@ -40,7 +40,7 @@
 
 <div align=center>
 
-![HyukJin's github stats](https://github-readme-stats.vercel.app/api?username=qmdl980&show_icons=true&theme=dracula)
+![HyukJin's github stats](https://github-readme-stats.qmdl980.vercel.app/api?username=qmdl980&show_icons=true&theme=dracula)
 
   
 
