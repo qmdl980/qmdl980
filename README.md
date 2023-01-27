@@ -1,8 +1,10 @@
+<!--
 <div align="center">
 
   ## Hi I'm Oh Hyuk Jin, hope to be the best Front End Engineer
   
 </div>
+
 
 <br>
 
@@ -36,6 +38,8 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 </p>
 
+-->
+
 <br>
 
 <div align=center>
@@ -43,7 +47,7 @@
 ![HyukJin's github stats](https://github-readme-stats.qmdl980.vercel.app/api?username=qmdl980&show_icons=true&theme=dracula)
 
   
-
+<!--
 <p align="center">
     
   ### I'm building a blog for myself !
@@ -55,4 +59,4 @@
     <img src="https://img.shields.io/badge/MyBlog_BE-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a> 
 </p>
-
+-->
